@@ -1,0 +1,26 @@
+body {
+  background: black;
+  text-align: center;
+  color: white;
+  font-family: Arial;
+}
+
+button {
+  margin: 8px;
+  padding: 8px 15px;
+  background: #111;
+  color: cyan;
+  border: 1px solid cyan;
+  cursor: pointer;
+}
+
+button:hover {
+  background: cyan;
+  color: black;
+}
+
+canvas {
+  background: #0a0a0a;
+  border: 1px solid cyan;
+  margin-top: 10px;
+}
